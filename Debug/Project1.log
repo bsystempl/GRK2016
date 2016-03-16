@@ -1,4 +1,4 @@
 ﻿  Main.cpp
-c:\users\purba\documents\visual studio 2015\projects\project1\project1\main.cpp(20): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
-  Project1.vcxproj -> c:\users\purba\documents\visual studio 2015\Projects\Project1\Debug\Project1.exe
-  Project1.vcxproj -> c:\users\purba\documents\visual studio 2015\Projects\Project1\Debug\Project1.pdb (Partial PDB)
+c:\users\purba\documents\visual studio 2015\projects\project1\project1\main.cpp(22): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Project1.vcxproj -> C:\Users\purba\documents\visual studio 2015\Projects\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\purba\documents\visual studio 2015\Projects\Project1\Debug\Project1.pdb (Partial PDB)
